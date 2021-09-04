@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @forest-cat
+- 👀 I’m interested in programming with python and c#
+- 🌱 I’m currently learning gamedevelopment using c# and unity
+- 📫 You can contact me on Discord: 𝕱𝖔𝖗𝖊𝖘𝖙_𝕮𝖆𝖙#0512
+
+<!---
+forest-cat/forest-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
