@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @forest-cat
 - 👀 I’m interested in programming with python and c#
 - 🌱 I’m currently learning gamedevelopment using c# and unity
+- 🇩🇪 I’m currently living in germany
 - 📫 You can contact me on Discord: 𝕱𝖔𝖗𝖊𝖘𝖙_𝕮𝖆𝖙#0512
 
 <!---
