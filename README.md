@@ -1,3 +1,9 @@
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Defelo&count_private=true&include_all_commits=true&show_icons=true&theme=gotham">
+
+
 - 👋 Hi, I’m @forest-cat
 - 👀 I’m interested in programming with python and c#
 - 🌱 I’m currently learning gamedevelopment using c# and unity
