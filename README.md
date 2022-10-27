@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Forestcat
 - 👀 I like programming with python and c#
-- 🌱 and i'm learning currently gamedevelopment using c# and unity
+- 🌱 and i'm learning currently website frontend design using css
 - 🇩🇪 I’m currently living in germany
 - 📫 You can contact me on Discord: 𝕱𝖔𝖗𝖊𝖘𝖙_𝕮𝖆𝖙#8895
 
