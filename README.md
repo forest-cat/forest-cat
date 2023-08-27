@@ -2,7 +2,9 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=forest-cat&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true">
+<!---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forest-cat&show_icons=true&theme=tokyonight&hide_border=true">
+--->
 
 - 👋 Hi, I’m Forestcat
 - 👀 I like programming with python and c#
