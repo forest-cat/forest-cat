@@ -10,7 +10,7 @@
 - 👀 I like programming with python and c#
 - 🌱 and i'm learning currently website frontend design using css
 - 🇩🇪 I’m currently living in germany
-- 📫 You can contact me on Discord: 𝕱𝖔𝖗𝖊𝖘𝖙_𝕮𝖆𝖙#8895
+- 📫 You can contact me on Discord: forest_cat
 
 <!---
 forest-cat/forest-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
