@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Forestcat
 - 👀 I like programming with python and c#
-- 🌱 and i'm learning currently website frontend design using css
+- 🌱 and i'm currently learning website frontend design using css
 - 🇩🇪 I’m currently living in germany
 - 📫 You can contact me on Discord: forest_cat
 
