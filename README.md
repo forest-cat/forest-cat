@@ -5,6 +5,7 @@
 <!---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forest-cat&show_icons=true&theme=tokyonight&hide_border=true">
 --->
+<img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif">
 
 - 👋 Hi, I’m Forestcat
 - 👀 I like programming with python and c#
