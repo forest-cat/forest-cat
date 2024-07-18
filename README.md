@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Forestcat
 - 👀 I like programming with python
-- 🌱 and i'm currently being distracted by school
+- 🌱 and i'm currently enjoying some free time :3
 - 📫 You can contact me on Discord: [forest_cat](https://discord.com/users/539142329546571806)
 
 ### 📊 GitHub Stats:
