@@ -17,10 +17,12 @@
 ![overview](https://raw.githubusercontent.com/forest-cat/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![languages](https://raw.githubusercontent.com/forest-cat/stats/master/generated/languages.svg#gh-dark-mode-only)
 
+<!---
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=forest-cat&column=8&theme=discord&no-frame=true&no-bg=true"/>
 </a>
+--->
 
 <!---
 forest-cat/forest-cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
