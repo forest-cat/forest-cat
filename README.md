@@ -9,7 +9,7 @@
 --->
 
 - 👋 Hi, I’m Forestcat
-- 👀 I like programming with python
+- 👀 I like programming with python and erlang
 - 📫 You can contact me on Discord: [forest_cat](https://discord.com/users/539142329546571806)
 
 ### 📊 GitHub Stats:
