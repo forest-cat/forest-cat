@@ -7,3 +7,8 @@
 <img src="https://raw.githubusercontent.com/forest-cat/stats/refs/heads/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/forest-cat/stats/refs/heads/generated/languages.svg#gh-dark-mode-only" />
 </div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/forest-cat/stats/refs/heads/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/forest-cat/stats/refs/heads/generated/languages.svg#gh-light-mode-only" />
+</div>
