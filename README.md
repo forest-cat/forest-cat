@@ -14,8 +14,16 @@
 
 ### 📊 GitHub Stats:
 <!--![Lalas github stats](https://github-readme-stats.vercel.app/api?username=lulalaby&theme=radical&show_icons=true&count_private=true)-->
-![](https://github.com/forest-cat/stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/forest-cat/stats/blob/generated/languages.svg#gh-dark-mode-only)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/forest-cat/stats/refs/heads/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/forest-cat/stats/refs/heads/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/forest-cat/stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/forest-cat/stats/blob/generated/languages.svg#gh-dark-mode-only" />
+</div>
+
+![](https://raw.githubusercontent.com/forest-cat/stats/refs/heads/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/forest-cat/stats/refs/heads/generated/languages.svg#gh-dark-mode-only)
 <!---
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
